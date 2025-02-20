@@ -96,6 +96,6 @@ For any queries or collaboration opportunities, reach out to me at:
 
 📧 Email: samkitjain1812@gmail.com
 
-💼 LinkedIn: M
+💼 LinkedIn: 
 
 Thanks for visiting my projects! ⭐ If you like them, don't forget to star the repositories!

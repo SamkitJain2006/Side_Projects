@@ -84,7 +84,7 @@ Navigate to the project folder:
 
 cd project-name
 
-Follow the setup guide in the respective README.md file of each project.
+Follow the setup guide in each project's respective README.md file.
 
 🤝 Contributing
 

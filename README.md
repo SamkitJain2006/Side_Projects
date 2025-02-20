@@ -94,7 +94,7 @@ Feel free to fork, contribute, or suggest improvements. Let's build together! �
 
 For any queries or collaboration opportunities, reach out to me at:
 
-📧 Email: mokshsharma02468@gmail.com
+📧 Email: samkitjain1812@gmail.com
 
 💼 LinkedIn: Moksh 
 
